@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="Person_ListView" IsGroupPanelVisible="True" IsGroupFooterVisible="True">
+			<Columns>
+				<ColumnInfo PropertyName="FullName" GroupFooterSummaryType="Count" />
+			</Columns>
+		</ListView>
+	</Views>
+	<SchemaModules>
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.2.0.4681" IsNewNode="True" />
+		<SchemaModule Name="ValidationModule" Version="8.2.0.4681" IsNewNode="True" />
+	</SchemaModules>
+</Application>

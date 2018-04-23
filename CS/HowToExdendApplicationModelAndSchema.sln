@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToExdendApplicationModelAndSchema.Module", "HowToExdendApplicationModelAndSchema.Module\HowToExdendApplicationModelAndSchema.Module.csproj", "{B3FD27C6-F124-45B2-B38C-E02B426AF3DE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToExdendApplicationModelAndSchema.Module.Win", "HowToExdendApplicationModelAndSchema.Module.Win\HowToExdendApplicationModelAndSchema.Module.Win.csproj", "{E10B38A9-7255-4FDE-944D-DE12276DAA63}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToExdendApplicationModelAndSchema.Win", "HowToExdendApplicationModelAndSchema.Win\HowToExdendApplicationModelAndSchema.Win.csproj", "{89B057BA-19BC-47D3-916D-C899D262BC3C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FD27C6-F124-45B2-B38C-E02B426AF3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FD27C6-F124-45B2-B38C-E02B426AF3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FD27C6-F124-45B2-B38C-E02B426AF3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FD27C6-F124-45B2-B38C-E02B426AF3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10B38A9-7255-4FDE-944D-DE12276DAA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10B38A9-7255-4FDE-944D-DE12276DAA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10B38A9-7255-4FDE-944D-DE12276DAA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10B38A9-7255-4FDE-944D-DE12276DAA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B057BA-19BC-47D3-916D-C899D262BC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B057BA-19BC-47D3-916D-C899D262BC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B057BA-19BC-47D3-916D-C899D262BC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B057BA-19BC-47D3-916D-C899D262BC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
