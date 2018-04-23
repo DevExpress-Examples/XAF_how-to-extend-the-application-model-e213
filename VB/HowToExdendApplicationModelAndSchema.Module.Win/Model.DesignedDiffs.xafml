@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="Person_ListView" IsGroupPanelVisible="True" IsGroupFooterVisible="True">
+			<Columns>
+				<ColumnInfo PropertyName="FullName" GroupFooterSummaryType="Count" />
+			</Columns>
+		</ListView>
+	</Views>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.2.0.4681" />
+		<SchemaModule Name="SystemModule" Version="8.2.0.4681" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.2.0.4681" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.2.0.4681" IsNewNode="True" />
+	</SchemaModules>
+</Application>

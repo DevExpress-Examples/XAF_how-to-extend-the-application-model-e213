@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="HowToExdendApplicationModelAndSchema" Logo="ExpressAppLogo">
+	<SchemaModules IsNewNode="True">
+		<SchemaModule Name="SystemModule" Version="8.2.0.4681" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.2.0.4681" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.2.0.4681" IsNewNode="True" />
+	</SchemaModules>
+	<NavigationItems IsNewNode="True">
+		<Group ID="Default" IsNewNode="True">
+			<Item ID="Person" ViewID="Person_ListView" IsNewNode="True" />
+		</Group>
+	</NavigationItems>
+</Application>
