@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GroupFooterViewController.cs](./CS/HowToExdendApplicationModelAndSchema.Module.Win/GroupFooterViewController.cs) (VB: [GroupFooterViewController.vb](./VB/HowToExdendApplicationModelAndSchema.Module.Win/GroupFooterViewController.vb))
+* [ModelExtender.cs](./CS/HowToExdendApplicationModelAndSchema.Module.Win/ModelExtender.cs) (VB: [ModelExtender.vb](./VB/HowToExdendApplicationModelAndSchema.Module.Win/ModelExtender.vb))
+* [WinModule.cs](./CS/HowToExdendApplicationModelAndSchema.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/HowToExdendApplicationModelAndSchema.Module.Win/WinModule.vb))
+<!-- default file list end -->
 # How to Extend the Application Model
 
 
